@@ -9,6 +9,9 @@
   <a href="https://github.com/boyhan14">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/farkhan-nabiel-makarim-397386388/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 > I build digital products that turn ideas into real, usable software.
@@ -17,7 +20,7 @@ I'm **Farkhan Nabiel Makarim**, a software engineering student focused on buildi
 
 I enjoy working across the entire product lifecycle — from **UI/UX and frontend architecture to backend systems, databases, APIs, deployment, and AI integration**.
 
-Currently, I'm sharpening my skills to become a **full-stack engineer** who can design, build, and ship complete digital products.
+Currently, I'm sharpening my skills to become a **premium full-stack engineer** who can design, build, and ship complete products.
 
 ---
 
@@ -28,9 +31,9 @@ Currently, I'm sharpening my skills to become a **full-stack engineer** who can 
 │                                                              │
 │  FRONTEND                                                    │
 │  ├─ Modern interfaces                                        │
-│  ├─ Responsive UI                                            │
+│  ├─ Responsive & accessible UI                               │
 │  ├─ React / JavaScript                                       │
-│  └─ Interactive experiences                                  │
+│  └─ Interactive user experiences                             │
 │                                                              │
 │  BACKEND                                                     │
 │  ├─ REST APIs                                                │
@@ -59,7 +62,7 @@ Currently, I'm sharpening my skills to become a **full-stack engineer** who can 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,dart,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,dart,sql" />
 </p>
 
 ### Frontend & Mobile
@@ -96,7 +99,7 @@ A retirement education and digital service platform designed to bring retirement
 
 ### 🏘️ KKN Digital Village
 
-A digital platform designed to transform KKN activities into a structured digital presence for villages — including village information, UMKM, documentation, programs, maps, and impact data.
+A digital platform that transforms KKN activities into a structured digital presence for villages — including village information, UMKM, documentation, programs, maps, and impact data.
 
 **Built with**
 
@@ -106,7 +109,7 @@ A digital platform designed to transform KKN activities into a structured digita
 
 ### 💼 KerjaKampus
 
-A web platform focused on campus-related opportunities and workflows, built as a production-ready web application.
+A web platform focused on connecting students with opportunities and useful campus-related workflows.
 
 **Built with**
 
@@ -151,34 +154,34 @@ I'm particularly interested in:
 * UI/UX engineering
 * Developer experience
 * Computer vision
-* Production software systems
+* Scalable software systems
 
 ---
 
 ## `05` — Currently Building
 
-### `→` Digital Products
+### `→` Products
 
-Building software products that solve practical problems and can actually be used in the real world.
+Exploring and building software products that solve real problems — not just projects that live inside a portfolio.
 
 ### `→` Full-Stack Engineering
 
 Going deeper into:
 
-* scalable backend architecture
-* clean API design
-* authentication & authorization
-* database optimization
-* production deployment
-* application security
+* Scalable backend architecture
+* Clean API design
+* Authentication & authorization
+* Database optimization
+* Production deployment
+* System security
 
 ### `→` AI-Native Development
 
-Exploring how AI can become a fundamental part of software products rather than simply being added as a chatbot.
+Learning how AI can become a fundamental part of software products rather than simply being added as a chatbot.
 
 ---
 
-## `06` — Engineering Philosophy
+## `06` — My Engineering Philosophy
 
 > **Don't just build features. Build systems.**
 
@@ -217,16 +220,16 @@ Every project is an opportunity to improve how I think about software — from t
 
 ## `08` — Let's Connect
 
-Interested in:
+If you're interested in:
 
-* building digital products
-* collaborating on software projects
+* Building a digital product
+* Collaborating on a project
+* Discussing software engineering
 * AI-powered applications
-* full-stack development
-* freelance development
-* or simply talking about technology
+* Freelance development
+* Or simply talking about technology
 
-Feel free to reach out.
+feel free to reach out.
 
 <p align="left">
   <a href="https://farkhan.codeathome.id">
@@ -234,6 +237,9 @@ Feel free to reach out.
   </a>
   <a href="https://github.com/boyhan14">
     <img src="https://img.shields.io/badge/GitHub-boyhan14-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/farkhan-nabiel-makarim-397386388/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
