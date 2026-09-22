@@ -1,52 +1,248 @@
-<h1 align="center">Hi 👋, I'm Boyhan</h1>
-<h3 align="center">A passionate Fullstack Developer & IT Infrastructure Enthusiast 🇮🇩</h3>
+# Hey, I'm Khen 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boyhan14&label=Profile%20views&color=0e75b6&style=flat" alt="boyhan14" /> </p>
+### Full-Stack Engineer · Software Engineering Student · Builder
 
-Sebagai seorang mahasiswa dan pengembang perangkat lunak, saya memiliki minat besar dalam membangun aplikasi dari hulu ke hilir—mulai dari menyusun *Software Requirements Specification* (SRS), merancang UI/UX, menulis kode aplikasi, hingga mengatur infrastruktur *server*.
+<p align="left">
+  <a href="https://farkhan.codeathome.id">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/boyhan14">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 **Currently working on:** Aplikasi mobile dan website berbasis *Agile*, serta platform interaktif (seperti *custom web photobooth*).
-- 🌱 **Currently learning:** Eksplorasi mendalam tentang *Kubernetes cluster*, serta manajemen *Virtual Machine* (Ubuntu Server, VMware, VirtualBox).
-- 👯 **Looking to collaborate on:** Proyek *open-source*, pengembangan *Company Profile*, dan integrasi desain UI/UX ke dalam *frontend*.
-- 💬 **Ask me about:** React, Node.js, PHP, Firebase, dan perancangan *wireframe*.
-- ⚡ **Fun fact:** Saya suka menggabungkan logika pemrograman dengan kreativitas visual, termasuk bereksperimen dengan aset *AI image generation* dan desain *branding* 3D!
+> I build digital products that turn ideas into real, usable software.
 
----
+I'm **Farkhan Nabiel Makarim**, a software engineering student focused on building modern web applications, mobile apps, and AI-powered systems.
 
-### 🛠️ Tech Stack & Tools
+I enjoy working across the entire product lifecycle — from **UI/UX and frontend architecture to backend systems, databases, APIs, deployment, and AI integration**.
 
-**Frontend, Backend & Database:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Infrastructure & Server:**
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-**Tools & Design:**
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF007F?style=for-the-badge&logo=figma&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+Currently, I'm sharpening my skills to become a **full-stack engineer** who can design, build, and ship complete digital products.
 
 ---
 
-### 📊 GitHub Stats
+## `01` — What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boyhan14&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyhan14&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  FRONTEND                                                    │
+│  ├─ Modern interfaces                                        │
+│  ├─ Responsive UI                                            │
+│  ├─ React / JavaScript                                       │
+│  └─ Interactive experiences                                  │
+│                                                              │
+│  BACKEND                                                     │
+│  ├─ REST APIs                                                │
+│  ├─ Laravel / PHP                                            │
+│  ├─ Database architecture                                    │
+│  └─ Authentication & authorization                           │
+│                                                              │
+│  MOBILE                                                      │
+│  ├─ Flutter                                                  │
+│  ├─ Firebase                                                 │
+│  └─ Android development                                      │
+│                                                              │
+│  AI & INTELLIGENT SYSTEMS                                    │
+│  ├─ AI-powered applications                                  │
+│  ├─ Chatbot & automation                                     │
+│  ├─ Machine Learning                                         │
+│  └─ Computer Vision                                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `02` — Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,js,dart,mysql" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,androidstudio" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres,firebase" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## `03` — Selected Work
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 🏢 Pensiun Mudah
 
-<br/>
+A retirement education and digital service platform designed to bring retirement preparation, learning, consultation, events, webinars, certification, and digital services into one ecosystem.
 
-[linkedin]: https://linkedin.com/in/username-linkedin-anda](https://www.linkedin.com/in/farkhan-nabiel-makarim-397386388/
+**Built with**
+
+`Laravel` · `Filament` · `React` · `Inertia` · `Tailwind CSS` · `MySQL` · `Google OAuth` · `Midtrans`
+
+---
+
+### 🏘️ KKN Digital Village
+
+A digital platform designed to transform KKN activities into a structured digital presence for villages — including village information, UMKM, documentation, programs, maps, and impact data.
+
+**Built with**
+
+`Laravel` · `PHP` · `Blade` · `Livewire` · `Tailwind CSS` · `SQLite`
+
+---
+
+### 💼 KerjaKampus
+
+A web platform focused on campus-related opportunities and workflows, built as a production-ready web application.
+
+**Built with**
+
+`Laravel` · `Blade` · `Livewire` · `Tailwind CSS` · `SQLite`
+
+---
+
+### 🤖 WALEAD AI
+
+An AI-powered WhatsApp CRM concept for managing leads, customers, products, orders, conversations, lead scoring, and human-in-the-loop workflows.
+
+**Built with**
+
+`Next.js` · `PostgreSQL` · `pgvector` · `WhatsApp Cloud API` · `AI`
+
+---
+
+## `04` — Engineering Interests
+
+```text
+Web Engineering
+      ↓
+Full-Stack Development
+      ↓
+System Architecture
+      ↓
+AI Integration
+      ↓
+Automation
+      ↓
+Digital Products
+```
+
+I'm particularly interested in:
+
+* Full-stack web application architecture
+* AI-native applications
+* SaaS & digital products
+* REST API design
+* Database architecture
+* Automation
+* UI/UX engineering
+* Developer experience
+* Computer vision
+* Production software systems
+
+---
+
+## `05` — Currently Building
+
+### `→` Digital Products
+
+Building software products that solve practical problems and can actually be used in the real world.
+
+### `→` Full-Stack Engineering
+
+Going deeper into:
+
+* scalable backend architecture
+* clean API design
+* authentication & authorization
+* database optimization
+* production deployment
+* application security
+
+### `→` AI-Native Development
+
+Exploring how AI can become a fundamental part of software products rather than simply being added as a chatbot.
+
+---
+
+## `06` — Engineering Philosophy
+
+> **Don't just build features. Build systems.**
+
+I care about more than making an application work.
+
+I want software to be:
+
+**Useful.**
+
+**Maintainable.**
+
+**Fast.**
+
+**Secure.**
+
+**Beautiful.**
+
+**Actually deployable.**
+
+Every project is an opportunity to improve how I think about software — from the first line of code to the moment the product reaches its users.
+
+---
+
+## `07` — GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boyhan14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyhan14&layout=compact&hide_border=true&theme=transparent" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=boyhan14&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## `08` — Let's Connect
+
+Interested in:
+
+* building digital products
+* collaborating on software projects
+* AI-powered applications
+* full-stack development
+* freelance development
+* or simply talking about technology
+
+Feel free to reach out.
+
+<p align="left">
+  <a href="https://farkhan.codeathome.id">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/boyhan14">
+    <img src="https://img.shields.io/badge/GitHub-boyhan14-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed & built by Khen.</sub>
+</p>
+
+<p align="center">
+  <sub>Building software. Learning continuously. Shipping products.</sub>
+</p>
